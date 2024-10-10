@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Arial">
+		<normal><![CDATA[fonts/arial/arial.ttf]]></normal>
+		<bold><![CDATA[fonts/Arial/arialbd.ttf]]></bold>
+		<italic><![CDATA[fonts/Arial/ariali.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Arial/arialbi.ttf]]></boldItalic>
+		<pdfEncoding><![CDATA[Cp1252]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="Calibri">
+		<normal><![CDATA[fonts/calibri/calibri.ttf]]></normal>
+		<bold><![CDATA[fonts/calibri/calibri-bold.ttf]]></bold>
+		<italic><![CDATA[fonts/calibri/calibri-italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/calibri/calibri-bold-italic.ttf]]></boldItalic>
+		<pdfEncoding><![CDATA[Cp1252]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="InkFree">
+		<normal><![CDATA[fonts/inkFree/Inkfree.ttf]]></normal>
+		<pdfEncoding><![CDATA[Cp1252]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="ComicSansMS">
+		<normal><![CDATA[fonts/comic/comic.ttf]]></normal>
+		<bold><![CDATA[fonts/comic/comicbd.ttf]]></bold>
+		<italic><![CDATA[fonts/comic/comici.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/comic/comicz.ttf]]></boldItalic>
+		<pdfEncoding><![CDATA[Cp1252]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+</fontFamilies>
